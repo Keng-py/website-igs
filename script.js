@@ -1,7 +1,3 @@
-// ========================================
-// IGNATIUS GLOBAL SCHOOL - MAIN JAVASCRIPT
-// ========================================
-
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize all modules
     Preloader.init();
